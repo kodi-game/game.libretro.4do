@@ -31,6 +31,5 @@
 		<description lang="en_GB">4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code.</description>
 		<description lang="es_ES">Opera emula el sistema de videojuegos 3DO Interactive Multiplayer, a menudo llamado simplemente 3DO.[CR][CR]Opera es una bifurcación de 4DO, que se basa en el código fuente de FreeDO.</description>
 		<description lang="zh_CN">Opera 模拟了 3DO 交互式多人视频游戏系统，通常简称为 3DO。[CR][CR]Opera 是 4DO 的一个分支，它基于 FreeDO 源代码。</description>
-		<lifecyclestate type="deprecated" lang="en_GB">4DO was renamed to Opera.</lifecyclestate>
 	</extension>
 </addon>
