@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code."
 msgstr "Opera emuliert das Videospiel 3DO Interactive Multiplayer, oft auch einfach 3DO genannt.[CR][CR]Opera ist eine Abspaltung von 4DO, das auf dem FreeDO Quellcode basiert."
 
+msgctxt "Addon Lifecyclestate"
+msgid "4DO was renamed to Opera."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Einstellungen"
