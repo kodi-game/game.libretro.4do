@@ -1,10 +1,10 @@
-# The 3DO Company - 3DO (Opera)
+# The 3DO Company - 3DO (4DO)
 
 ### Description
 
-Opera emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.
+4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.
 
-Opera is a fork of 4DO, which is based on the FreeDO source code.
+4DO is based on the FreeDO source code.
 
 ### License
 
@@ -12,7 +12,7 @@ LGPL/Non-commercial
 
 ### Icon
 
-![The 3DO Company - 3DO (Opera) icon](game.libretro.opera/resources/icon.png)
+![The 3DO Company - 3DO (4DO) icon](game.libretro.4do/resources/icon.png)
 
 ### Fanart
 

@@ -1,1 +1,1 @@
-opera https://github.com/libretro/opera-libretro/archive/35e16483be900ea8aa20e87d2710b677437f73ce.tar.gz
+4do https://github.com/kodi-game/4do-libretro/archive/da814a868c41fb47f265e04e5f95756cda62e5c2.tar.gz
