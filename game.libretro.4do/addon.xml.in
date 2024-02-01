@@ -23,6 +23,8 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">The 3DO Company - 3DO (4DO)</summary>
+		<summary lang="es_ES">The 3DO Company - 3DO (4DO)</summary>
 		<description lang="en_GB">4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code.</description>
+		<description lang="es_ES">4DO emula el sistema de videojuegos 3DO Interactive Multiplayer, a menudo llamado simplemente 3DO.[CR][CR]4DO se basa en el código fuente de FreeDO.</description>
 	</extension>
 </addon>
