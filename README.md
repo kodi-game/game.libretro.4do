@@ -8,7 +8,7 @@
 
 ### License
 
-LGPL/Non-commercial
+Unlicensed
 
 ### Icon
 
