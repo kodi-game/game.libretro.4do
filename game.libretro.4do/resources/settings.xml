@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="4do_bios" values="disabled" default="disabled"/>
 		<setting label="30002" type="select" id="4do_font" values="disabled" default="disabled"/>
 		<setting label="30003" type="select" id="4do_cpu_overclock" values="1.0x (12.50Mhz)|1.1x (13.75Mhz)|1.2x (15.00Mhz)|1.5x (18.75Mhz)|1.6x (20.00Mhz)|1.8x (22.50Mhz)|2.0x (25.00Mhz)" default="1.0x (12.50Mhz)"/>

@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: 4DO core for kodi's retroplayer
- 4DO core for kodi's retroplayer
+Description: The 3DO Company - 3DO (4DO) core for kodi's retroplayer
+ The 3DO Company - 3DO (4DO) core for kodi's retroplayer
