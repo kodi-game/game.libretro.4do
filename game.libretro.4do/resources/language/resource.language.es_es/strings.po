@@ -23,10 +23,9 @@ msgid "4DO"
 msgstr "The 3DO Company - 3DO (4DO)"
 
 msgctxt "Addon Description"
-msgid ""
-"4DO emulates the 3DO Interactive Multiplayer video game system, often called "
-"simply the 3DO.[CR][CR]4DO is based on the FreeDO source code."
-msgstr ""
+msgid "4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code."
+msgstr "[CR][CR]4DO emula el sistema de videojuegos 3DO Interactive Multiplayer, a [CR]menudo [CR]llamado simplemente 3DO.[CR][CR]4DO se basa en el código fuente [CR]de FreeDO.[CR][CR]4DO emula el sistema de videojuegos 3DO Interactive [CR]Multiplayer, a menudo [CR]llamado simplemente 3DO.[CR][CR]4DO se basa en el [CR]código fuente de FreeDO.[CR][CR]4DO emula el sistema de videojuegos 3DO [CR]Interactive Multiplayer, a menudo [CR]llamado simplemente 3DO.[CR][CR]4DO se [CR]basa en el código fuente de FreeDO.4DO emula el sistema de videojuegos 3DO [CR]Interactive Multiplayer, a menudo llamado simplemente 3DO.[CR][CR]4DO se [CR]basa en el código fuente de FreeDO."
+
 "[CR]4DO emula el sistema de videojuegos 3DO Interactive Multiplayer, a "
 "menudo [CR]llamado simplemente 3DO.[CR][CR]4DO se basa en el código fuente "
 "de FreeDO.[CR][CR]4DO emula el sistema de videojuegos 3DO Interactive "
