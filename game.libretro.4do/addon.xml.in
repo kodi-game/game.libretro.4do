@@ -31,5 +31,6 @@
 		<description lang="es_ES">4DO emula el sistema de videojuegos 3DO Interactive Multiplayer, a menudo llamado simplemente 3DO.[CR][CR]4DO se basa en el código fuente de FreeDO.</description>
 		<description lang="it_IT">4DO emula il sistema di videogiochi multiplayer interattivo 3DO, spesso chiamato semplicemente 3DO.[CR][CR]4DO è basato sul codice sorgente FreeDO.</description>
 		<lifecyclestate type="broken" lang="en_GB">This add-on has been renamed from 4do to Opera.</lifecyclestate>
+		<lifecyclestate type="broken" lang="es_ES">Este add-on ha sido renombrado de 4do a Opera.</lifecyclestate>
 	</extension>
 </addon>
